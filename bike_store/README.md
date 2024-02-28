@@ -1,5 +1,6 @@
 # bikes project
-Analyzing data on a fictional bicycle store:
+Relational database consisting of 9 data sets.  
+Analyzing data on a fictional bicycle store :
 
 -inspection of data  
 -analysis  
