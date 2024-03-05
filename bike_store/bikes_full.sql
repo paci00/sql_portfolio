@@ -1,4 +1,5 @@
-		--Asking questions about customers
+--Database name created for this project is 'portfolio_bikes' import datasets there!
+--Asking questions about customers
 USE portfolio_bikes
 --How many customers gave their phone numbers to our company
 
