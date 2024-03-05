@@ -1,4 +1,4 @@
-
+--Database name created for this project is 'portfolio_covid' import dataset there!
 USE portfolio_covid
 --CREATING CALCULATION FOR NEW cases AND deaths BY USING LAG() FUNCTION
 DROP TABLE IF EXISTS #temp_new;
