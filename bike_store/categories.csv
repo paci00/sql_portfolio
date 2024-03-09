@@ -1,9 +1,8 @@
-﻿category_id,category_name,category_quantity,unique_models_count,avg_price,median_model_price,least_expensive,most_expensive,top_model,top_brand
-6,Mountain Bikes,2654,60,1577.27,1499.83,379.99,5299.99,Trek Fuel EX 8 29 XT - 2018,Trek
-7,Road Bikes,2091,60,3263.62,2299.99,749.99,11999.99,Trek Domane AL 2 Women's - 2018,Trek
-2,Comfort Bicycles,1258,30,693.35,551.99,416.99,2599.99,Sun Bicycles Cruz 7 - Women's - 2017,Electra
-5,Electric Bikes,1108,24,3329.97,2999.99,1559.99,4999.99,Trek XM700+ Lowstep - 2018,Trek
-4,Cyclocross Bicycles,414,10,2508.09,2999.99,1549,3999.99,Trek Boone 7 Disc - 2018,Trek
-3,Cruisers Bicycles,3378,78,732.68,603.32,250.99,2999.99,Electra Townie Original 7D - 2017,Electra
-7,Road Bikes,2091,60,3263.62,2299.99,749.99,11999.99,Trek Domane SL 5 Disc - 2018,Trek
-1,Children Bicycles,2608,59,281.47,279.99,89.99,489.99,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra
+category_id,category_name
+1,Children Bicycles
+2,Comfort Bicycles
+3,Cruisers Bicycles
+4,Cyclocross Bicycles
+5,Electric Bikes
+6,Mountain Bikes
+7,Road Bikes
