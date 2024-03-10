@@ -2,6 +2,8 @@
 Analyzing data on Walmart online store.   
 The analysis consists of 2 query files. One should is one-time run meant to alter and clean main table. Second is the main analysis file.  
 
+~300 lines of code
+
 
 ## Query results:   
 <img width="781" alt="image" src="https://github.com/paci00/sql_portfolio/assets/153626884/097af686-0aad-476c-afa5-b985dd3a3c18">
