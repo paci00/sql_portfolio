@@ -1,23 +1,13 @@
-# bikes project
+# paintings project
 Relational database consisting of 9 data sets.  
-Analyzing data on a fictional bicycle store :
+Analyzing complex data regarding paintings  
 
--inspection of data  
--analysis  
--updating the data  
--altering columns  
--creating cte  
--creating new tables  
--creating rankings  
--using aggregate functions  
--self joins, inner joins, left joins  
--concating  
--searching for the median   
--grouping   
--lead and lag  
--transforming date  
+Step by step actions are described in query files themselves
 
-~300 lines of code
+~430 lines of code for main query file   
+~250 lines of code for cleaning query file   
+~700 lines of code total   
 
-## abbreviated summary of code results  
-![image](https://github.com/paci00/sql_portfolio/assets/153626884/59d496c5-9aac-4146-943c-61789f5ab132)
+## abbreviated summary of code results     
+![image](https://github.com/paci00/sql_portfolio/assets/153626884/090e218e-c8ea-4c5f-ade9-757edb95db4b)
+
