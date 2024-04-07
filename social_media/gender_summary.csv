@@ -1,0 +1,4 @@
+﻿gender,ppl,avg_age,avg_hours,avg_income,avg_income_diff,demographics,dem_pop_prec,platform,pla_pop_prec,interests,int_pop_prec,status,sta_pop_prec
+female,331,41,5,15185,171,Urban,33,Instagram,40,Lifestlye,36,normic,90
+male,337,41,4,14919,-95,Rural,38,Instagram,37,Travel,35,normic,91
+non-binary,332,40,5,14941,-73,Sub_Urban,37,YouTube,37,Sports,33,normic,89

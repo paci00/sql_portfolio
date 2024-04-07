@@ -1,0 +1,4 @@
+﻿profession,ppl,avg_age,avg_hours,avg_income,avg_income_diff,demographics,dem_pop_prec,interests,int_pop_prec,status,sta_pop_prec
+Marketer Manager,355,40,5,14927,-87,Sub_Urban,37,Lifestlye,34,normic,89
+Software Engineer,336,40,4,14876,-138,Rural,35,Sports,34,normic,87
+Student,309,41,5,15265,251,Rural,35,Lifestlye,36,normic,95
