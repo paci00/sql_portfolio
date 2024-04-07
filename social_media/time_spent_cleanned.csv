@@ -1,0 +1,1001 @@
+﻿age,gender,hours_spent,platform,interests,location,demographics,profession,income,indebt,home_owner,car_owner,status
+56,male,3,Instagram,Sports,United Kingdom,Urban,Software Engineer,19774,1,0,0,normic
+46,female,2,Facebook,Travel,United Kingdom,Urban,Student,10564,1,1,1,normic
+32,male,8,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,13258,0,0,0,normic
+60,non-binary,5,Instagram,Travel,United Kingdom,Urban,Student,12500,0,1,0,normic
+25,male,1,Instagram,Lifestlye,Australia,Urban,Software Engineer,14566,0,1,1,normic
+38,male,3,Facebook,Travel,United States,Urban,Marketer Manager,19179,1,1,1,normic
+56,male,8,YouTube,Sports,United States,Urban,Student,16881,1,1,1,normic
+36,male,4,Instagram,Sports,Australia,Urban,Marketer Manager,13636,1,0,1,normic
+40,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,16030,0,0,1,normic
+28,non-binary,2,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10223,1,0,1,normic
+28,female,7,YouTube,Lifestlye,United Kingdom,Urban,Student,16297,1,1,0,normic
+41,non-binary,5,Facebook,Sports,United States,Sub_Urban,Marketer Manager,10350,0,0,0,normic
+53,non-binary,5,Facebook,Sports,Australia,Rural,Student,17314,0,1,1,chad
+57,female,6,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,11928,0,1,0,normic
+41,non-binary,9,YouTube,Travel,United States,Rural,Student,17743,1,1,0,normic
+20,male,6,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,18540,1,1,0,normic
+39,male,8,Instagram,Travel,United States,Sub_Urban,Student,14732,1,1,0,normic
+19,female,7,Instagram,Sports,United Kingdom,Rural,Marketer Manager,11017,0,1,1,normic
+41,female,9,Facebook,Sports,United States,Sub_Urban,Student,12226,0,0,0,normic
+61,female,4,Facebook,Sports,United States,Urban,Marketer Manager,17206,0,0,0,normic
+47,male,2,Instagram,Sports,United Kingdom,Rural,Software Engineer,17170,0,0,1,normic
+55,non-binary,7,YouTube,Travel,Australia,Urban,Student,16207,1,0,1,normic
+19,male,6,YouTube,Travel,United States,Rural,Marketer Manager,12419,1,1,1,normic
+38,female,1,YouTube,Sports,Australia,Sub_Urban,Software Engineer,16240,1,1,1,normic
+50,non-binary,9,Instagram,Sports,United Kingdom,Rural,Software Engineer,11893,1,0,0,loser
+29,non-binary,9,Facebook,Travel,Australia,Rural,Student,15322,1,0,1,normic
+39,male,2,Instagram,Lifestlye,Australia,Urban,Software Engineer,17718,1,0,0,normic
+61,female,3,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,16878,1,0,0,normic
+42,male,5,YouTube,Travel,Australia,Urban,Software Engineer,11125,1,0,1,normic
+44,non-binary,5,YouTube,Sports,Australia,Sub_Urban,Software Engineer,13117,0,0,1,normic
+59,male,1,Facebook,Sports,United States,Urban,Marketer Manager,14161,0,0,1,normic
+45,male,8,Facebook,Lifestlye,United States,Rural,Software Engineer,14042,1,0,1,normic
+33,female,8,Instagram,Lifestlye,United States,Urban,Software Engineer,14433,0,1,1,normic
+32,female,4,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,18638,1,1,1,normic
+64,non-binary,7,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,12658,1,1,0,normic
+61,male,3,Instagram,Travel,United States,Rural,Marketer Manager,13483,0,1,0,normic
+20,male,6,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12944,1,0,0,loser
+54,male,9,YouTube,Lifestlye,United States,Urban,Marketer Manager,17210,1,1,0,normic
+24,non-binary,1,Instagram,Lifestlye,United States,Rural,Software Engineer,17653,1,0,1,normic
+38,non-binary,5,Instagram,Sports,Australia,Sub_Urban,Software Engineer,18787,1,1,1,normic
+26,female,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,11986,1,0,0,loser
+56,female,8,Instagram,Sports,Australia,Urban,Software Engineer,11074,1,0,0,loser
+35,female,1,Instagram,Lifestlye,Australia,Urban,Marketer Manager,14305,1,1,0,normic
+21,male,9,Instagram,Travel,United States,Rural,Marketer Manager,13007,0,1,1,normic
+42,male,6,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,10969,0,0,1,normic
+31,female,4,Instagram,Travel,United Kingdom,Urban,Student,18772,1,0,1,normic
+26,male,9,Facebook,Travel,Australia,Rural,Software Engineer,12824,0,0,0,normic
+43,female,5,Instagram,Sports,Australia,Sub_Urban,Software Engineer,11211,1,1,0,normic
+19,non-binary,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10229,1,1,1,normic
+37,female,5,YouTube,Lifestlye,United States,Rural,Student,14284,1,0,1,normic
+45,non-binary,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,13185,1,1,0,normic
+64,male,1,Facebook,Travel,United States,Urban,Marketer Manager,10501,0,0,0,normic
+24,female,8,Facebook,Sports,United States,Sub_Urban,Software Engineer,10048,0,1,1,normic
+61,male,8,YouTube,Travel,United States,Sub_Urban,Software Engineer,13566,0,1,0,normic
+25,non-binary,6,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,13055,0,1,1,normic
+64,non-binary,4,Instagram,Lifestlye,United States,Rural,Marketer Manager,18880,1,1,1,normic
+52,non-binary,2,YouTube,Travel,United Kingdom,Urban,Software Engineer,10386,0,1,0,normic
+31,male,2,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,10969,1,0,0,loser
+34,male,9,Instagram,Travel,United States,Rural,Marketer Manager,19197,1,0,0,normic
+53,male,5,Facebook,Sports,United States,Sub_Urban,Software Engineer,15820,0,1,1,chad
+57,male,4,Instagram,Travel,United Kingdom,Urban,Software Engineer,13052,1,0,0,loser
+21,non-binary,1,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,17397,0,0,0,normic
+19,non-binary,7,Facebook,Sports,Australia,Urban,Software Engineer,12302,0,1,1,normic
+23,female,3,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,12283,0,0,1,normic
+59,female,6,Instagram,Lifestlye,Australia,Sub_Urban,Student,19799,0,1,0,normic
+21,male,5,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,14366,0,0,1,normic
+46,non-binary,5,YouTube,Travel,United States,Urban,Student,10122,1,0,1,normic
+35,non-binary,5,YouTube,Travel,Australia,Rural,Student,16799,0,0,1,normic
+43,non-binary,1,Facebook,Lifestlye,United Kingdom,Urban,Student,19472,0,0,0,normic
+61,female,1,Instagram,Travel,Australia,Sub_Urban,Software Engineer,13727,1,0,0,loser
+51,female,3,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,18450,0,0,1,normic
+27,non-binary,4,Facebook,Travel,United States,Rural,Student,19139,0,0,1,normic
+53,non-binary,5,Facebook,Sports,United Kingdom,Urban,Student,14958,1,1,1,normic
+31,non-binary,2,Facebook,Sports,Australia,Urban,Student,10524,1,1,0,normic
+48,female,8,YouTube,Lifestlye,Australia,Urban,Software Engineer,19079,0,1,1,chad
+32,non-binary,2,YouTube,Travel,United States,Sub_Urban,Student,18399,1,1,1,normic
+25,non-binary,9,Instagram,Travel,United Kingdom,Urban,Student,10148,0,0,0,normic
+31,male,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,18001,1,0,1,normic
+40,male,9,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,10437,0,0,0,normic
+57,female,7,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,13749,0,1,0,normic
+38,non-binary,8,Facebook,Sports,United Kingdom,Urban,Marketer Manager,18186,0,1,0,normic
+33,non-binary,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,14453,1,1,1,normic
+62,male,7,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,15336,0,0,1,normic
+35,female,6,Facebook,Sports,United States,Sub_Urban,Software Engineer,14551,1,1,0,normic
+64,male,4,Instagram,Travel,United Kingdom,Urban,Marketer Manager,12823,0,0,1,normic
+41,male,7,Instagram,Sports,United Kingdom,Urban,Software Engineer,15728,0,1,0,normic
+43,male,4,Facebook,Sports,Australia,Rural,Student,18677,0,0,1,normic
+42,male,2,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,18391,0,1,0,normic
+62,non-binary,7,YouTube,Sports,Australia,Rural,Software Engineer,11982,0,0,0,normic
+58,non-binary,8,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,16996,1,1,1,normic
+46,male,2,Facebook,Sports,United States,Rural,Student,19663,1,1,1,normic
+32,female,5,Instagram,Sports,Australia,Rural,Software Engineer,12311,1,0,1,normic
+62,female,1,Instagram,Lifestlye,Australia,Rural,Software Engineer,17225,0,0,1,normic
+18,female,7,Instagram,Travel,United States,Sub_Urban,Software Engineer,19713,0,1,0,normic
+42,female,8,Instagram,Lifestlye,Australia,Urban,Student,10604,1,0,0,normic
+24,male,6,Instagram,Lifestlye,United States,Sub_Urban,Student,18175,0,1,1,chad
+26,non-binary,5,YouTube,Lifestlye,United Kingdom,Urban,Student,15785,0,0,1,normic
+41,female,6,Facebook,Travel,United States,Rural,Software Engineer,19609,0,1,0,normic
+18,male,2,YouTube,Sports,Australia,Rural,Student,14597,1,0,1,normic
+61,female,1,Instagram,Lifestlye,United States,Rural,Marketer Manager,17759,1,1,1,normic
+25,female,7,Instagram,Lifestlye,Australia,Rural,Student,17532,1,1,1,normic
+41,male,7,Instagram,Travel,United Kingdom,Rural,Software Engineer,18740,1,1,1,normic
+28,non-binary,2,Instagram,Lifestlye,United States,Urban,Marketer Manager,10838,1,0,0,loser
+34,non-binary,2,Facebook,Sports,United Kingdom,Urban,Student,13815,0,1,0,normic
+25,male,1,Instagram,Travel,Australia,Rural,Marketer Manager,10847,0,0,1,normic
+52,non-binary,8,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,14709,0,0,0,normic
+52,male,8,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,14507,0,0,1,normic
+50,male,1,Facebook,Travel,United States,Rural,Marketer Manager,16575,1,1,1,normic
+22,male,8,YouTube,Lifestlye,United States,Urban,Marketer Manager,14773,1,0,1,normic
+59,non-binary,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,14468,0,0,0,normic
+56,male,4,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,15192,1,0,0,normic
+58,female,1,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,13320,0,1,0,normic
+45,non-binary,1,Instagram,Sports,United States,Rural,Marketer Manager,14698,0,0,0,normic
+24,non-binary,3,Instagram,Travel,United States,Sub_Urban,Marketer Manager,14311,0,0,0,normic
+26,non-binary,5,Instagram,Travel,United States,Sub_Urban,Marketer Manager,13673,0,0,1,normic
+25,non-binary,5,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,11564,1,0,1,normic
+29,female,9,Facebook,Lifestlye,United States,Sub_Urban,Student,11840,0,1,0,normic
+51,non-binary,2,YouTube,Sports,United States,Urban,Marketer Manager,16058,1,1,0,normic
+50,non-binary,2,Facebook,Lifestlye,Australia,Rural,Student,17131,0,0,0,normic
+40,male,6,Facebook,Sports,United States,Rural,Software Engineer,10726,0,0,1,normic
+41,non-binary,9,Instagram,Lifestlye,United States,Urban,Marketer Manager,19436,0,0,0,normic
+54,female,1,Instagram,Sports,United Kingdom,Urban,Student,16697,0,0,1,normic
+52,female,9,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,19257,1,1,1,normic
+61,female,9,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10282,0,1,0,normic
+57,female,9,Instagram,Sports,United States,Sub_Urban,Marketer Manager,11081,1,1,1,normic
+39,non-binary,5,Instagram,Lifestlye,Australia,Rural,Student,13885,0,1,1,normic
+44,non-binary,9,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,12881,0,0,0,normic
+52,female,4,YouTube,Lifestlye,Australia,Urban,Marketer Manager,12970,0,0,1,normic
+18,female,2,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,19344,1,1,0,normic
+52,non-binary,6,YouTube,Sports,Australia,Sub_Urban,Software Engineer,16985,0,1,1,chad
+54,female,4,YouTube,Lifestlye,Australia,Sub_Urban,Student,10947,0,0,0,normic
+64,male,6,Instagram,Lifestlye,United States,Rural,Student,14760,0,0,0,normic
+31,female,3,YouTube,Lifestlye,Australia,Urban,Software Engineer,19909,0,0,1,normic
+20,female,6,Instagram,Travel,United States,Sub_Urban,Marketer Manager,10066,0,0,0,normic
+18,male,2,YouTube,Travel,United States,Rural,Student,18828,1,0,1,normic
+22,male,2,Facebook,Sports,United States,Sub_Urban,Marketer Manager,18505,1,1,1,normic
+43,non-binary,9,YouTube,Travel,United States,Urban,Marketer Manager,10564,0,1,0,normic
+31,non-binary,7,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,19793,0,0,1,normic
+56,male,3,Instagram,Sports,United Kingdom,Urban,Software Engineer,19017,1,0,0,normic
+44,male,1,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,13670,0,1,1,normic
+26,non-binary,8,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,19217,1,0,1,normic
+32,female,6,Instagram,Sports,Australia,Sub_Urban,Software Engineer,12251,0,1,0,normic
+32,male,7,Instagram,Lifestlye,United States,Urban,Marketer Manager,10804,0,1,1,normic
+43,non-binary,9,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,14631,1,1,1,normic
+59,female,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,19583,0,1,1,chad
+30,male,1,Instagram,Sports,United States,Rural,Marketer Manager,11235,1,0,1,normic
+49,female,7,Instagram,Sports,United Kingdom,Rural,Software Engineer,16720,1,0,1,normic
+56,non-binary,5,Instagram,Lifestlye,United States,Urban,Marketer Manager,16906,1,1,1,normic
+49,male,3,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,16016,0,0,1,normic
+21,female,9,Instagram,Sports,United Kingdom,Urban,Software Engineer,13549,1,0,1,normic
+47,male,1,Facebook,Sports,United Kingdom,Rural,Student,17938,1,0,0,normic
+54,female,1,YouTube,Lifestlye,United States,Urban,Student,14141,0,0,1,normic
+40,non-binary,1,Facebook,Travel,Australia,Urban,Software Engineer,16966,0,1,1,chad
+56,non-binary,3,Instagram,Sports,United States,Rural,Student,19546,0,0,0,normic
+62,male,6,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,15335,0,1,0,normic
+32,female,3,YouTube,Lifestlye,United States,Urban,Marketer Manager,15077,0,1,0,normic
+60,male,8,Facebook,Lifestlye,Australia,Rural,Marketer Manager,15611,0,0,1,normic
+46,male,2,YouTube,Lifestlye,United States,Sub_Urban,Student,18089,1,1,0,normic
+53,female,9,Facebook,Lifestlye,Australia,Rural,Marketer Manager,12892,0,0,0,normic
+30,female,3,Instagram,Travel,Australia,Urban,Student,15577,1,0,1,normic
+49,female,5,YouTube,Sports,United States,Sub_Urban,Student,13618,0,1,1,normic
+24,non-binary,8,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11559,1,0,0,loser
+39,male,2,Instagram,Lifestlye,Australia,Rural,Marketer Manager,16683,1,1,0,normic
+45,male,6,YouTube,Travel,United States,Rural,Student,11507,0,1,1,normic
+19,non-binary,5,Facebook,Travel,Australia,Rural,Marketer Manager,12063,0,0,1,normic
+59,female,9,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,13642,1,0,1,normic
+62,non-binary,5,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12000,0,0,1,normic
+23,non-binary,2,Facebook,Sports,United States,Urban,Marketer Manager,11294,0,1,1,normic
+45,non-binary,5,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,14065,1,0,0,loser
+45,male,4,YouTube,Travel,United Kingdom,Urban,Marketer Manager,18014,1,1,1,normic
+61,non-binary,7,Facebook,Lifestlye,Australia,Rural,Marketer Manager,19945,1,1,1,normic
+61,male,6,Instagram,Lifestlye,United States,Rural,Student,11603,0,0,1,normic
+37,male,2,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,11322,0,0,1,normic
+47,male,5,YouTube,Lifestlye,Australia,Rural,Marketer Manager,15956,0,0,1,normic
+28,female,7,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,12441,0,1,0,normic
+45,male,7,Instagram,Lifestlye,United States,Sub_Urban,Student,11098,1,0,1,normic
+42,male,5,Facebook,Travel,Australia,Urban,Student,15073,0,1,0,normic
+56,female,9,YouTube,Sports,United States,Sub_Urban,Student,19697,1,0,1,normic
+50,male,4,YouTube,Sports,United States,Urban,Marketer Manager,19318,0,0,0,normic
+18,non-binary,3,Instagram,Travel,United Kingdom,Sub_Urban,Student,18488,0,1,0,normic
+44,non-binary,4,YouTube,Sports,United States,Sub_Urban,Software Engineer,13787,1,1,1,normic
+30,male,5,Facebook,Lifestlye,United States,Rural,Student,12096,0,0,1,normic
+58,female,6,YouTube,Sports,Australia,Sub_Urban,Software Engineer,12208,0,0,1,normic
+20,non-binary,3,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,15988,1,0,1,normic
+56,female,2,Instagram,Sports,United States,Urban,Student,10175,0,0,1,normic
+23,female,4,Facebook,Travel,Australia,Rural,Software Engineer,17169,1,0,0,normic
+25,non-binary,5,Facebook,Sports,United Kingdom,Urban,Student,16014,1,1,1,normic
+44,female,4,YouTube,Sports,United Kingdom,Urban,Student,11667,1,1,1,normic
+26,non-binary,3,YouTube,Sports,Australia,Rural,Student,18867,1,1,0,normic
+54,female,8,Instagram,Travel,Australia,Rural,Marketer Manager,11823,0,1,1,normic
+50,non-binary,4,Facebook,Sports,Australia,Rural,Software Engineer,15147,0,0,0,normic
+59,male,2,Facebook,Travel,Australia,Sub_Urban,Student,11356,0,1,1,normic
+61,non-binary,2,Facebook,Lifestlye,Australia,Rural,Software Engineer,13072,1,1,0,normic
+41,non-binary,1,YouTube,Sports,United States,Rural,Software Engineer,13259,0,1,1,normic
+32,non-binary,4,Facebook,Travel,United States,Rural,Software Engineer,16199,0,0,0,normic
+49,non-binary,9,Instagram,Travel,United Kingdom,Urban,Student,10546,0,1,0,normic
+49,female,7,Instagram,Sports,United States,Urban,Student,15231,0,0,1,normic
+41,male,7,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,17965,1,1,1,normic
+58,non-binary,7,YouTube,Travel,United States,Urban,Marketer Manager,12083,1,0,1,normic
+29,female,8,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12040,0,1,0,normic
+56,male,1,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,14534,1,0,0,loser
+19,male,8,Instagram,Travel,United Kingdom,Rural,Software Engineer,11752,0,1,0,normic
+20,male,4,Facebook,Travel,United Kingdom,Urban,Software Engineer,19807,0,0,1,normic
+54,male,4,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,11849,0,0,1,normic
+34,non-binary,4,Facebook,Lifestlye,United States,Urban,Student,12642,1,1,0,normic
+19,non-binary,6,YouTube,Sports,United States,Rural,Marketer Manager,11600,0,0,1,normic
+19,female,7,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,14402,1,0,0,loser
+45,female,6,Facebook,Travel,United Kingdom,Rural,Software Engineer,13799,1,1,1,normic
+40,female,1,Instagram,Lifestlye,United States,Rural,Student,10618,0,1,1,normic
+54,male,8,Instagram,Lifestlye,United States,Sub_Urban,Student,11132,1,0,0,normic
+49,male,7,Facebook,Lifestlye,Australia,Rural,Marketer Manager,15491,1,1,1,normic
+50,non-binary,6,YouTube,Travel,Australia,Rural,Student,15795,0,1,1,chad
+18,male,6,YouTube,Lifestlye,Australia,Urban,Marketer Manager,17633,1,1,1,normic
+36,male,5,Instagram,Lifestlye,United States,Rural,Marketer Manager,11487,1,0,1,normic
+19,male,6,YouTube,Travel,United States,Rural,Marketer Manager,17848,0,0,1,normic
+61,female,9,Instagram,Sports,Australia,Rural,Student,15009,0,0,0,normic
+43,female,9,YouTube,Sports,United Kingdom,Rural,Marketer Manager,19749,1,0,1,normic
+49,non-binary,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,12113,0,0,0,normic
+23,male,9,Instagram,Lifestlye,Australia,Urban,Software Engineer,11044,0,0,1,normic
+49,male,8,Instagram,Travel,Australia,Rural,Marketer Manager,12431,1,0,1,normic
+21,non-binary,8,Facebook,Sports,Australia,Rural,Marketer Manager,17979,1,1,0,normic
+28,male,1,Instagram,Sports,United States,Sub_Urban,Software Engineer,11582,0,0,0,normic
+34,male,5,YouTube,Travel,United Kingdom,Rural,Software Engineer,11308,1,0,1,normic
+55,female,4,YouTube,Travel,Australia,Sub_Urban,Student,14917,0,1,1,normic
+41,non-binary,2,Instagram,Sports,United Kingdom,Urban,Marketer Manager,18793,0,1,0,normic
+22,non-binary,8,YouTube,Travel,United Kingdom,Urban,Student,11620,1,1,0,normic
+51,non-binary,3,Instagram,Sports,United Kingdom,Rural,Student,17503,1,0,0,normic
+23,non-binary,4,Facebook,Travel,Australia,Rural,Software Engineer,14766,0,1,0,normic
+39,female,7,Instagram,Travel,United States,Rural,Student,15362,0,0,1,normic
+28,female,9,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,15192,0,0,1,normic
+33,male,2,YouTube,Sports,United Kingdom,Rural,Software Engineer,16622,0,0,1,normic
+50,male,3,Facebook,Travel,United Kingdom,Rural,Marketer Manager,16093,1,1,1,normic
+26,male,4,YouTube,Sports,United States,Urban,Marketer Manager,16704,0,1,1,chad
+23,male,1,Instagram,Sports,Australia,Rural,Software Engineer,10100,1,0,0,loser
+33,female,7,YouTube,Travel,United Kingdom,Urban,Marketer Manager,16657,1,0,0,normic
+46,non-binary,2,Instagram,Travel,United States,Rural,Software Engineer,15875,0,0,0,normic
+20,female,5,Instagram,Sports,United Kingdom,Urban,Marketer Manager,14271,1,1,1,normic
+37,male,1,Facebook,Sports,United States,Rural,Software Engineer,10237,1,0,0,loser
+53,female,3,Facebook,Lifestlye,United States,Urban,Student,17226,0,1,1,chad
+36,non-binary,2,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,18032,1,0,1,normic
+43,non-binary,1,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,15218,1,1,1,normic
+20,female,7,YouTube,Lifestlye,Australia,Urban,Marketer Manager,14025,0,0,0,normic
+36,female,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,16073,0,1,1,chad
+37,female,1,YouTube,Travel,Australia,Rural,Marketer Manager,12542,0,1,1,normic
+49,male,6,Instagram,Travel,United Kingdom,Rural,Software Engineer,11537,0,1,0,normic
+24,female,5,YouTube,Sports,Australia,Rural,Student,10754,0,1,1,normic
+58,female,3,YouTube,Lifestlye,United States,Sub_Urban,Student,17396,0,1,0,normic
+50,female,7,YouTube,Travel,United Kingdom,Sub_Urban,Student,17823,0,1,1,chad
+57,non-binary,9,Facebook,Travel,United Kingdom,Urban,Software Engineer,15507,1,0,0,normic
+56,non-binary,9,YouTube,Travel,United States,Sub_Urban,Student,14235,1,0,1,normic
+35,male,9,Instagram,Travel,Australia,Urban,Software Engineer,10540,0,0,1,normic
+57,male,2,Facebook,Travel,United Kingdom,Urban,Marketer Manager,15510,1,0,0,normic
+18,non-binary,3,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,18461,1,1,1,normic
+28,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Student,17926,0,0,0,normic
+45,non-binary,5,Facebook,Lifestlye,United States,Rural,Software Engineer,15131,1,1,1,normic
+42,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,18697,0,1,0,normic
+40,female,3,YouTube,Sports,Australia,Urban,Software Engineer,11129,1,1,1,normic
+48,non-binary,6,Instagram,Lifestlye,Australia,Urban,Software Engineer,13145,0,0,1,normic
+47,female,7,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,18553,1,1,1,normic
+59,female,9,Instagram,Lifestlye,United States,Urban,Software Engineer,13720,1,0,0,loser
+52,male,1,YouTube,Sports,United States,Urban,Marketer Manager,19648,1,0,0,normic
+24,non-binary,7,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,14067,0,0,0,normic
+33,non-binary,8,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,14195,1,0,0,loser
+43,female,3,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19873,1,0,0,normic
+19,non-binary,4,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,19244,0,1,1,chad
+18,male,6,YouTube,Travel,United Kingdom,Urban,Software Engineer,17281,0,1,1,chad
+29,male,7,YouTube,Travel,United Kingdom,Rural,Marketer Manager,12509,1,0,1,normic
+22,male,4,YouTube,Sports,United Kingdom,Rural,Marketer Manager,15016,1,1,1,normic
+54,non-binary,8,YouTube,Travel,United States,Sub_Urban,Student,16533,1,0,1,normic
+49,non-binary,5,YouTube,Travel,United Kingdom,Rural,Student,14727,1,1,0,normic
+26,non-binary,1,Facebook,Lifestlye,United Kingdom,Urban,Student,10681,0,1,1,normic
+58,non-binary,4,YouTube,Travel,Australia,Rural,Software Engineer,13932,1,1,0,normic
+52,non-binary,3,Instagram,Lifestlye,Australia,Urban,Software Engineer,15560,1,1,1,normic
+36,male,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,14016,0,1,0,normic
+33,female,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,17339,1,1,0,normic
+20,male,1,Instagram,Sports,United Kingdom,Urban,Marketer Manager,10719,1,1,0,normic
+37,non-binary,6,Facebook,Sports,Australia,Rural,Marketer Manager,10074,1,1,1,normic
+41,male,9,Facebook,Travel,United States,Sub_Urban,Software Engineer,19485,0,1,1,chad
+50,non-binary,7,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,14157,0,1,1,normic
+41,non-binary,4,YouTube,Lifestlye,Australia,Rural,Marketer Manager,18511,1,1,1,normic
+28,male,1,Instagram,Lifestlye,United States,Rural,Student,12149,1,1,0,normic
+25,non-binary,2,Instagram,Travel,United States,Urban,Marketer Manager,19644,0,1,0,normic
+53,female,5,Facebook,Sports,United Kingdom,Rural,Marketer Manager,19747,1,0,0,normic
+55,non-binary,5,Instagram,Sports,Australia,Rural,Marketer Manager,16713,1,1,0,normic
+57,female,8,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,14207,0,1,1,normic
+37,female,6,YouTube,Travel,Australia,Urban,Student,17141,0,1,0,normic
+52,non-binary,8,YouTube,Sports,Australia,Urban,Marketer Manager,18652,0,1,1,chad
+42,male,2,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,19078,1,1,0,normic
+52,female,3,Instagram,Sports,Australia,Urban,Student,13936,1,1,0,normic
+42,male,6,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,19307,1,0,0,normic
+46,female,3,YouTube,Lifestlye,Australia,Rural,Software Engineer,11075,1,0,1,normic
+35,non-binary,6,Facebook,Travel,United States,Sub_Urban,Marketer Manager,13876,0,0,1,normic
+63,non-binary,6,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,14615,1,1,0,normic
+35,female,2,YouTube,Sports,United States,Rural,Software Engineer,17265,1,1,0,normic
+19,non-binary,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16379,0,1,0,normic
+52,female,2,Facebook,Travel,United Kingdom,Urban,Student,19118,0,0,1,normic
+33,non-binary,6,YouTube,Travel,Australia,Urban,Software Engineer,14652,1,1,1,normic
+58,male,1,Facebook,Travel,United Kingdom,Urban,Student,16792,0,1,1,chad
+53,non-binary,3,Facebook,Sports,United States,Urban,Marketer Manager,19247,0,0,0,normic
+50,male,2,YouTube,Sports,United States,Sub_Urban,Software Engineer,17456,1,0,1,normic
+21,non-binary,7,Instagram,Sports,United States,Sub_Urban,Marketer Manager,14674,1,1,0,normic
+50,male,4,YouTube,Sports,United Kingdom,Rural,Student,10541,1,1,1,normic
+31,non-binary,8,Instagram,Sports,United States,Sub_Urban,Marketer Manager,12161,1,1,0,normic
+38,male,6,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,12251,0,1,0,normic
+37,female,4,Facebook,Sports,United States,Sub_Urban,Software Engineer,19244,0,0,1,normic
+25,female,5,Instagram,Sports,United States,Rural,Marketer Manager,14569,1,1,0,normic
+24,male,9,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,12744,1,1,0,normic
+20,non-binary,7,Instagram,Sports,United States,Sub_Urban,Marketer Manager,16041,0,0,0,normic
+34,male,9,Instagram,Travel,Australia,Rural,Software Engineer,14675,1,1,1,normic
+50,non-binary,7,Facebook,Sports,United Kingdom,Rural,Student,11560,1,1,0,normic
+29,female,1,Instagram,Sports,United Kingdom,Rural,Student,11164,1,0,1,normic
+39,non-binary,8,YouTube,Travel,United Kingdom,Urban,Marketer Manager,15419,1,0,1,normic
+39,female,4,YouTube,Travel,Australia,Sub_Urban,Software Engineer,12722,0,1,0,normic
+63,non-binary,3,Facebook,Travel,United Kingdom,Rural,Marketer Manager,10470,1,0,1,normic
+47,non-binary,7,Facebook,Travel,United States,Urban,Student,19608,0,0,0,normic
+55,non-binary,3,Instagram,Sports,United States,Rural,Software Engineer,11468,1,1,1,normic
+55,male,8,Instagram,Travel,United States,Rural,Student,17925,1,0,0,normic
+62,male,6,Instagram,Travel,United Kingdom,Rural,Student,10808,0,1,1,normic
+25,female,5,Instagram,Lifestlye,United States,Rural,Software Engineer,18363,1,1,0,normic
+44,female,4,YouTube,Travel,United Kingdom,Rural,Software Engineer,16719,0,1,0,normic
+44,male,8,YouTube,Travel,United States,Urban,Marketer Manager,15073,1,1,0,normic
+51,female,8,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,18012,1,0,0,normic
+38,male,1,Instagram,Lifestlye,Australia,Sub_Urban,Student,11645,1,1,1,normic
+47,non-binary,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,18249,1,1,1,normic
+50,female,5,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,11129,1,1,0,normic
+45,female,4,Instagram,Sports,United Kingdom,Urban,Marketer Manager,11353,0,1,1,normic
+64,male,6,Instagram,Lifestlye,United States,Urban,Student,10767,0,0,0,normic
+50,female,6,Instagram,Lifestlye,Australia,Urban,Student,13895,1,0,0,normic
+22,female,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,18874,1,0,1,normic
+36,non-binary,8,Instagram,Lifestlye,Australia,Rural,Software Engineer,13454,0,1,1,normic
+21,female,7,Facebook,Sports,Australia,Rural,Marketer Manager,17329,0,0,0,normic
+52,non-binary,1,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11790,1,0,1,normic
+34,male,5,Facebook,Travel,United Kingdom,Rural,Marketer Manager,19669,1,1,0,normic
+61,female,6,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,10885,0,0,1,normic
+45,non-binary,4,YouTube,Sports,United States,Rural,Software Engineer,17734,1,1,1,normic
+47,male,2,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,13906,0,0,1,normic
+46,female,4,YouTube,Sports,Australia,Rural,Software Engineer,14492,1,0,1,normic
+63,male,1,YouTube,Sports,United States,Rural,Marketer Manager,19730,0,0,1,normic
+23,female,7,Facebook,Travel,United States,Urban,Student,12073,0,0,0,normic
+52,male,2,Facebook,Travel,United Kingdom,Rural,Software Engineer,10312,1,1,1,normic
+58,male,2,Instagram,Sports,United States,Rural,Student,16269,0,1,1,chad
+54,non-binary,9,YouTube,Lifestlye,United States,Urban,Marketer Manager,15317,1,0,0,normic
+41,male,5,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,10810,1,1,0,normic
+46,female,2,Instagram,Sports,United States,Urban,Marketer Manager,16841,1,0,0,normic
+63,female,9,Instagram,Lifestlye,Australia,Urban,Software Engineer,12032,1,0,1,normic
+48,non-binary,9,Facebook,Lifestlye,United States,Sub_Urban,Student,19699,0,0,1,normic
+52,female,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,17129,1,0,0,normic
+50,female,3,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,12705,1,0,0,loser
+38,female,4,YouTube,Sports,United States,Rural,Marketer Manager,18788,1,0,0,normic
+49,male,7,YouTube,Sports,United States,Rural,Student,12147,1,1,0,normic
+40,male,4,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,10615,0,1,1,normic
+50,female,2,Instagram,Sports,United Kingdom,Urban,Software Engineer,10947,1,0,1,normic
+20,non-binary,7,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,15677,0,1,1,chad
+35,male,6,Instagram,Travel,Australia,Rural,Student,14651,0,0,1,normic
+42,non-binary,3,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,17866,0,1,1,chad
+59,female,6,Instagram,Sports,Australia,Sub_Urban,Student,12013,1,1,0,normic
+48,female,6,YouTube,Travel,Australia,Rural,Student,13697,1,1,1,normic
+20,male,5,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,10490,1,0,0,loser
+57,female,4,YouTube,Travel,United States,Sub_Urban,Software Engineer,14350,1,1,0,normic
+63,male,1,YouTube,Travel,Australia,Rural,Marketer Manager,12428,0,0,0,normic
+41,female,6,Instagram,Sports,Australia,Rural,Software Engineer,14987,0,0,1,normic
+49,female,2,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,18733,1,0,0,normic
+64,male,3,YouTube,Travel,United States,Urban,Marketer Manager,19479,1,1,1,normic
+39,male,8,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,19825,1,1,0,normic
+40,male,6,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,14920,1,1,1,normic
+19,female,3,Instagram,Travel,United Kingdom,Urban,Marketer Manager,12926,1,0,0,loser
+44,female,7,Facebook,Travel,United States,Urban,Marketer Manager,19544,1,0,1,normic
+59,non-binary,4,YouTube,Travel,Australia,Urban,Marketer Manager,17282,1,1,0,normic
+19,male,9,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,14376,0,0,0,normic
+43,female,5,YouTube,Lifestlye,United Kingdom,Rural,Student,19490,0,1,0,normic
+34,female,3,Instagram,Lifestlye,United States,Rural,Software Engineer,14868,0,1,0,normic
+57,male,2,Instagram,Lifestlye,Australia,Rural,Student,16986,0,1,1,chad
+50,non-binary,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16862,1,1,1,normic
+26,male,3,Instagram,Travel,Australia,Rural,Student,14423,1,0,1,normic
+60,non-binary,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,16870,1,1,0,normic
+56,female,4,YouTube,Travel,United States,Sub_Urban,Marketer Manager,18159,1,1,0,normic
+46,non-binary,2,YouTube,Travel,United States,Urban,Student,12073,1,1,0,normic
+59,female,9,YouTube,Sports,Australia,Rural,Marketer Manager,16170,0,1,0,normic
+43,male,2,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,10701,1,1,0,normic
+52,male,9,Facebook,Lifestlye,United States,Rural,Marketer Manager,18113,0,1,0,normic
+42,male,6,YouTube,Travel,Australia,Rural,Software Engineer,16825,1,1,1,normic
+41,non-binary,1,Facebook,Lifestlye,United States,Urban,Software Engineer,17867,0,0,1,normic
+30,female,4,Instagram,Travel,United States,Urban,Marketer Manager,14264,1,0,1,normic
+24,male,1,YouTube,Travel,United States,Urban,Marketer Manager,17968,0,0,1,normic
+53,male,6,Facebook,Sports,Australia,Rural,Student,18146,1,0,1,normic
+62,female,4,Instagram,Sports,United Kingdom,Rural,Software Engineer,17776,1,1,1,normic
+37,male,3,Facebook,Sports,United Kingdom,Rural,Student,18558,1,0,1,normic
+18,female,3,YouTube,Travel,United Kingdom,Urban,Marketer Manager,18719,1,0,1,normic
+25,female,9,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,14886,0,0,0,normic
+63,female,6,Instagram,Sports,Australia,Rural,Student,13935,1,1,0,normic
+33,female,9,Instagram,Lifestlye,United States,Rural,Marketer Manager,14619,0,0,0,normic
+31,female,5,Instagram,Sports,United Kingdom,Rural,Software Engineer,15191,1,0,0,normic
+29,non-binary,2,Facebook,Sports,United Kingdom,Sub_Urban,Student,16875,0,1,0,normic
+40,male,8,Facebook,Travel,Australia,Rural,Software Engineer,17856,1,0,0,normic
+32,non-binary,5,Facebook,Sports,United States,Sub_Urban,Software Engineer,15401,1,1,0,normic
+45,male,2,Instagram,Sports,United Kingdom,Rural,Software Engineer,13022,0,0,1,normic
+51,non-binary,4,YouTube,Travel,Australia,Sub_Urban,Student,15738,1,1,1,normic
+19,female,9,YouTube,Lifestlye,United States,Rural,Marketer Manager,15984,1,0,0,normic
+49,male,4,Facebook,Sports,United States,Urban,Software Engineer,11770,0,0,1,normic
+40,male,4,Facebook,Travel,United Kingdom,Urban,Software Engineer,19969,1,0,1,normic
+39,non-binary,2,YouTube,Sports,United Kingdom,Urban,Software Engineer,18989,0,1,1,chad
+42,non-binary,6,YouTube,Travel,United States,Urban,Marketer Manager,13215,1,0,1,normic
+39,male,2,Facebook,Lifestlye,United States,Rural,Marketer Manager,16694,0,1,1,chad
+39,non-binary,7,Facebook,Lifestlye,United Kingdom,Urban,Student,12976,0,1,0,normic
+59,non-binary,3,YouTube,Travel,United States,Sub_Urban,Marketer Manager,13737,0,1,1,normic
+23,non-binary,3,Instagram,Travel,United Kingdom,Urban,Student,19903,0,1,0,normic
+32,female,5,Facebook,Travel,United States,Urban,Student,10752,1,0,0,normic
+60,female,3,YouTube,Lifestlye,United Kingdom,Urban,Student,11392,1,0,0,normic
+54,non-binary,2,YouTube,Sports,Australia,Rural,Student,16789,0,0,1,normic
+50,non-binary,9,YouTube,Lifestlye,United Kingdom,Urban,Student,10677,1,1,0,normic
+25,female,2,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,10105,1,0,0,loser
+61,female,2,Instagram,Travel,Australia,Urban,Marketer Manager,14753,1,1,0,normic
+61,male,8,YouTube,Lifestlye,United States,Urban,Software Engineer,11946,0,1,0,normic
+22,male,9,Facebook,Travel,Australia,Urban,Student,15544,1,1,1,normic
+56,female,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11095,1,0,0,loser
+21,non-binary,3,YouTube,Travel,United States,Urban,Software Engineer,16985,0,0,0,normic
+23,non-binary,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,11782,1,1,0,normic
+62,non-binary,3,Facebook,Sports,United States,Sub_Urban,Student,14541,0,0,0,normic
+49,non-binary,5,YouTube,Travel,United States,Urban,Software Engineer,13257,0,0,1,normic
+47,male,9,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,16213,0,1,0,normic
+64,female,3,YouTube,Sports,United States,Rural,Software Engineer,14869,1,1,0,normic
+52,non-binary,7,YouTube,Lifestlye,Australia,Urban,Software Engineer,11561,1,0,0,loser
+57,male,1,YouTube,Travel,United Kingdom,Urban,Software Engineer,14006,0,1,0,normic
+33,non-binary,4,YouTube,Lifestlye,United States,Sub_Urban,Student,19867,0,1,0,normic
+30,female,4,YouTube,Sports,United Kingdom,Sub_Urban,Student,19314,0,0,0,normic
+59,male,7,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,13981,0,0,1,normic
+47,female,8,YouTube,Lifestlye,United States,Rural,Student,19493,0,1,0,normic
+36,female,1,YouTube,Travel,Australia,Sub_Urban,Student,15682,0,0,1,normic
+34,male,5,Instagram,Travel,United States,Sub_Urban,Marketer Manager,15782,1,1,1,normic
+36,male,7,Instagram,Travel,United Kingdom,Rural,Software Engineer,10943,0,1,0,normic
+45,male,4,Instagram,Sports,United Kingdom,Rural,Student,14550,0,0,1,normic
+43,male,4,Instagram,Sports,Australia,Urban,Student,19137,0,1,0,normic
+54,male,4,Instagram,Travel,United States,Rural,Software Engineer,10600,1,1,1,normic
+43,male,6,Instagram,Travel,United Kingdom,Urban,Marketer Manager,16376,1,1,0,normic
+40,male,7,YouTube,Sports,United Kingdom,Rural,Software Engineer,19609,1,0,1,normic
+26,non-binary,2,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,11524,1,0,1,normic
+29,female,5,Facebook,Sports,Australia,Urban,Software Engineer,13766,0,0,0,normic
+18,male,4,YouTube,Sports,United Kingdom,Urban,Software Engineer,10250,1,1,1,normic
+18,non-binary,3,YouTube,Travel,United Kingdom,Urban,Software Engineer,19736,0,1,1,chad
+64,non-binary,7,Instagram,Sports,United States,Rural,Software Engineer,10078,0,0,1,normic
+51,non-binary,6,Instagram,Travel,United States,Sub_Urban,Marketer Manager,13123,0,0,1,normic
+49,female,7,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,19089,0,0,1,normic
+42,male,5,Facebook,Lifestlye,United Kingdom,Urban,Student,17064,0,1,0,normic
+57,non-binary,6,Instagram,Sports,United States,Urban,Software Engineer,18417,0,0,1,normic
+62,female,5,YouTube,Lifestlye,Australia,Urban,Marketer Manager,11209,1,1,1,normic
+18,female,7,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,15153,1,0,0,normic
+33,female,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,14898,1,1,0,normic
+56,non-binary,5,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12178,1,1,0,normic
+22,male,6,Instagram,Sports,Australia,Urban,Student,17610,1,0,1,normic
+39,non-binary,6,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,18895,0,1,1,chad
+46,non-binary,5,YouTube,Travel,Australia,Urban,Software Engineer,12544,1,0,1,normic
+20,male,7,YouTube,Lifestlye,Australia,Rural,Marketer Manager,15522,1,1,1,normic
+29,male,8,Facebook,Sports,United States,Rural,Marketer Manager,12370,1,1,0,normic
+43,male,7,Facebook,Sports,Australia,Rural,Student,13281,0,0,0,normic
+33,female,5,Facebook,Sports,Australia,Urban,Marketer Manager,14710,0,1,1,normic
+54,male,1,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,10328,0,0,1,normic
+39,non-binary,5,Instagram,Travel,United Kingdom,Rural,Software Engineer,15579,1,0,1,normic
+46,male,2,Facebook,Sports,United States,Urban,Software Engineer,14228,1,0,1,normic
+31,non-binary,5,Instagram,Sports,United States,Urban,Student,16794,1,1,0,normic
+45,female,5,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,10120,1,1,0,normic
+22,non-binary,2,Facebook,Travel,Australia,Rural,Software Engineer,16749,1,1,1,normic
+64,non-binary,5,Instagram,Lifestlye,Australia,Urban,Student,10964,0,0,0,normic
+47,male,4,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,14224,1,0,1,normic
+63,male,1,YouTube,Travel,United States,Rural,Student,13675,0,1,1,normic
+22,non-binary,3,YouTube,Travel,Australia,Sub_Urban,Software Engineer,15694,1,1,0,normic
+29,male,1,YouTube,Sports,United States,Sub_Urban,Student,12076,0,0,1,normic
+33,female,5,Facebook,Travel,United Kingdom,Urban,Marketer Manager,16865,0,1,0,normic
+43,female,4,Facebook,Travel,United Kingdom,Urban,Student,15643,0,0,1,normic
+43,male,7,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,18524,0,1,0,normic
+38,female,5,YouTube,Sports,United States,Sub_Urban,Software Engineer,15249,1,0,1,normic
+56,male,4,Facebook,Sports,Australia,Urban,Student,11316,1,1,0,normic
+53,non-binary,2,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,11196,1,1,1,normic
+50,non-binary,4,YouTube,Sports,United Kingdom,Sub_Urban,Student,13170,0,0,1,normic
+47,female,2,Instagram,Sports,Australia,Urban,Marketer Manager,19621,1,0,0,normic
+54,male,8,Instagram,Travel,United Kingdom,Rural,Marketer Manager,10355,1,0,1,normic
+40,male,3,Instagram,Lifestlye,United States,Rural,Student,19718,1,1,0,normic
+27,female,9,Instagram,Sports,United Kingdom,Rural,Marketer Manager,10028,1,0,0,loser
+22,non-binary,4,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,11013,0,0,1,normic
+53,female,6,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,19019,0,1,1,chad
+51,non-binary,5,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,12024,1,0,1,normic
+48,male,1,Instagram,Sports,Australia,Urban,Software Engineer,18490,1,0,1,normic
+27,non-binary,9,Instagram,Travel,United Kingdom,Sub_Urban,Student,15839,1,0,0,normic
+36,female,1,YouTube,Sports,Australia,Urban,Software Engineer,15791,0,1,1,chad
+49,male,8,Instagram,Travel,Australia,Urban,Software Engineer,10754,0,1,1,normic
+18,female,9,YouTube,Lifestlye,Australia,Rural,Software Engineer,18961,0,1,1,chad
+22,female,9,Facebook,Sports,United States,Rural,Marketer Manager,13735,1,0,0,loser
+62,non-binary,1,YouTube,Lifestlye,Australia,Rural,Student,11238,0,1,1,normic
+21,female,2,YouTube,Lifestlye,United States,Urban,Student,11906,0,0,0,normic
+33,non-binary,1,Instagram,Travel,United Kingdom,Urban,Marketer Manager,17399,0,0,1,normic
+41,male,2,Facebook,Sports,Australia,Urban,Student,17961,0,0,0,normic
+33,non-binary,8,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19756,0,1,1,chad
+19,male,5,Facebook,Travel,Australia,Urban,Student,19410,1,1,1,normic
+45,non-binary,7,Facebook,Sports,United Kingdom,Rural,Marketer Manager,14601,1,0,0,loser
+49,female,2,YouTube,Sports,United States,Rural,Software Engineer,19549,1,0,1,normic
+44,non-binary,8,Facebook,Lifestlye,United States,Urban,Marketer Manager,11460,1,1,1,normic
+37,non-binary,6,YouTube,Sports,Australia,Urban,Software Engineer,17669,0,1,1,chad
+41,male,8,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,11416,1,1,0,normic
+29,female,1,YouTube,Sports,United Kingdom,Urban,Student,17766,1,0,1,normic
+52,non-binary,1,Facebook,Travel,United Kingdom,Rural,Software Engineer,11428,1,1,0,normic
+50,female,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,14378,0,1,0,normic
+50,non-binary,8,Instagram,Lifestlye,United Kingdom,Rural,Student,17529,1,1,0,normic
+60,non-binary,3,Facebook,Sports,United States,Sub_Urban,Marketer Manager,14474,0,0,1,normic
+54,female,5,Instagram,Sports,United States,Urban,Software Engineer,13071,0,1,0,normic
+29,non-binary,1,Instagram,Lifestlye,United States,Urban,Marketer Manager,10555,0,0,0,normic
+20,female,7,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,18547,1,0,1,normic
+18,non-binary,5,YouTube,Travel,United Kingdom,Urban,Software Engineer,11563,0,0,0,normic
+50,male,8,Facebook,Sports,Australia,Sub_Urban,Student,11040,1,1,0,normic
+57,female,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,12686,1,1,1,normic
+27,non-binary,9,Instagram,Travel,United States,Rural,Software Engineer,12553,1,1,1,normic
+60,non-binary,7,YouTube,Travel,Australia,Urban,Student,11779,0,0,0,normic
+61,male,1,Facebook,Travel,United States,Rural,Student,10075,0,1,1,normic
+46,female,3,Facebook,Travel,United Kingdom,Rural,Student,14326,1,0,1,normic
+30,non-binary,8,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,15835,0,1,1,chad
+29,male,3,Facebook,Travel,United Kingdom,Urban,Marketer Manager,15057,0,1,0,normic
+48,non-binary,8,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12349,0,1,0,normic
+63,female,1,Facebook,Travel,United Kingdom,Urban,Student,12773,1,1,1,normic
+19,non-binary,5,Instagram,Lifestlye,United States,Rural,Marketer Manager,12262,0,0,0,normic
+52,non-binary,4,YouTube,Travel,Australia,Rural,Software Engineer,13229,0,0,1,normic
+40,non-binary,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,10392,1,0,1,normic
+34,non-binary,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,11108,0,0,1,normic
+43,male,4,YouTube,Travel,United Kingdom,Sub_Urban,Student,14362,1,1,1,normic
+25,male,4,YouTube,Travel,Australia,Urban,Marketer Manager,15188,0,0,1,normic
+46,female,3,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,18802,0,0,0,normic
+43,male,7,Facebook,Lifestlye,United States,Urban,Student,15057,0,0,0,normic
+27,male,3,Facebook,Travel,United States,Sub_Urban,Software Engineer,13998,0,1,0,normic
+43,female,3,YouTube,Sports,United Kingdom,Urban,Student,18864,0,0,0,normic
+51,male,5,YouTube,Travel,United Kingdom,Rural,Student,16566,0,0,1,normic
+58,male,5,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,13677,1,1,1,normic
+24,female,6,Instagram,Travel,Australia,Sub_Urban,Software Engineer,15796,0,1,0,normic
+21,female,8,YouTube,Lifestlye,Australia,Rural,Student,16363,0,0,0,normic
+62,female,6,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,18123,0,0,1,normic
+28,non-binary,1,YouTube,Lifestlye,Australia,Rural,Student,18222,1,1,1,normic
+46,non-binary,8,Instagram,Travel,Australia,Urban,Student,17690,1,0,1,normic
+53,female,8,Instagram,Lifestlye,United States,Rural,Student,11400,1,1,0,normic
+42,female,9,Instagram,Lifestlye,Australia,Urban,Student,14071,0,0,1,normic
+38,female,9,Facebook,Travel,United States,Sub_Urban,Student,18808,0,0,1,normic
+53,non-binary,2,Instagram,Lifestlye,United States,Sub_Urban,Student,12786,1,0,0,normic
+27,non-binary,2,Instagram,Travel,Australia,Rural,Marketer Manager,17169,1,0,0,normic
+54,male,3,Instagram,Lifestlye,United States,Urban,Student,10870,1,0,0,normic
+26,male,1,YouTube,Sports,United Kingdom,Rural,Software Engineer,14196,0,1,1,normic
+41,female,4,Instagram,Sports,United Kingdom,Rural,Marketer Manager,19604,1,1,1,normic
+52,non-binary,4,YouTube,Lifestlye,Australia,Urban,Software Engineer,12739,0,0,0,normic
+52,non-binary,9,Instagram,Sports,United Kingdom,Rural,Student,10940,0,0,1,normic
+53,non-binary,9,Instagram,Travel,United States,Sub_Urban,Software Engineer,10340,0,0,1,normic
+35,female,9,Facebook,Sports,United Kingdom,Rural,Student,17422,1,1,1,normic
+56,male,7,YouTube,Lifestlye,Australia,Urban,Student,14133,0,1,0,normic
+49,female,2,Instagram,Lifestlye,Australia,Urban,Marketer Manager,10659,1,1,0,normic
+41,male,5,YouTube,Travel,United States,Sub_Urban,Marketer Manager,19752,1,1,1,normic
+40,male,4,YouTube,Lifestlye,Australia,Urban,Student,13457,1,1,1,normic
+49,female,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,19848,1,1,1,normic
+54,male,2,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12975,0,1,1,normic
+29,male,6,Facebook,Sports,United States,Rural,Marketer Manager,19241,0,1,0,normic
+30,non-binary,5,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,10453,0,0,0,normic
+40,male,2,Facebook,Travel,United Kingdom,Rural,Software Engineer,19896,0,1,1,chad
+42,female,1,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,18184,1,1,1,normic
+52,female,8,Facebook,Sports,United Kingdom,Rural,Student,15442,1,1,0,normic
+58,male,2,Facebook,Travel,United States,Sub_Urban,Software Engineer,10818,1,1,1,normic
+47,non-binary,7,Instagram,Sports,Australia,Rural,Student,14868,1,0,0,normic
+34,non-binary,9,YouTube,Travel,United States,Sub_Urban,Software Engineer,10012,0,1,1,normic
+37,male,9,Facebook,Sports,United States,Rural,Student,17727,1,0,0,normic
+42,male,8,Facebook,Lifestlye,Australia,Sub_Urban,Student,10920,0,0,1,normic
+39,female,9,YouTube,Sports,United Kingdom,Urban,Marketer Manager,14920,1,0,1,normic
+30,male,2,Instagram,Sports,Australia,Rural,Student,12418,1,1,0,normic
+36,non-binary,6,YouTube,Sports,United States,Sub_Urban,Marketer Manager,19506,1,1,0,normic
+53,male,4,YouTube,Sports,Australia,Rural,Software Engineer,16475,1,1,1,normic
+29,female,4,Facebook,Sports,United States,Rural,Student,12017,0,0,1,normic
+58,female,5,YouTube,Lifestlye,Australia,Sub_Urban,Student,17957,0,0,0,normic
+36,female,3,YouTube,Travel,Australia,Rural,Software Engineer,19420,0,0,0,normic
+29,female,1,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,14792,0,0,1,normic
+26,female,8,Facebook,Lifestlye,United States,Urban,Student,16830,1,1,1,normic
+24,male,5,Facebook,Sports,United Kingdom,Rural,Software Engineer,12434,1,1,0,normic
+45,male,3,Facebook,Sports,United States,Urban,Marketer Manager,12868,0,1,0,normic
+31,male,7,YouTube,Travel,Australia,Rural,Software Engineer,11438,0,0,0,normic
+48,male,7,YouTube,Sports,United States,Rural,Software Engineer,13543,1,0,0,loser
+36,female,1,Instagram,Lifestlye,United Kingdom,Rural,Student,11781,1,1,0,normic
+64,non-binary,9,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16343,0,1,1,chad
+33,male,2,YouTube,Travel,United Kingdom,Urban,Software Engineer,12263,0,0,1,normic
+22,non-binary,5,Instagram,Sports,United States,Rural,Marketer Manager,10211,0,1,0,normic
+52,male,5,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18699,1,1,1,normic
+29,male,8,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16159,0,0,1,normic
+42,non-binary,8,Facebook,Sports,United Kingdom,Sub_Urban,Student,17027,0,0,0,normic
+38,female,7,Instagram,Sports,Australia,Rural,Software Engineer,10331,0,0,1,normic
+53,male,7,Facebook,Travel,Australia,Urban,Student,16860,0,1,1,chad
+40,male,6,Facebook,Sports,United States,Urban,Software Engineer,18044,0,0,1,normic
+33,male,6,Facebook,Lifestlye,United States,Rural,Software Engineer,18169,1,1,0,normic
+56,non-binary,9,Facebook,Sports,United Kingdom,Sub_Urban,Student,18742,0,1,0,normic
+62,female,6,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15720,1,0,1,normic
+59,non-binary,2,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,19133,0,1,1,chad
+56,non-binary,2,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,10727,0,0,1,normic
+31,female,5,Instagram,Lifestlye,Australia,Sub_Urban,Student,14975,0,0,1,normic
+48,non-binary,4,Facebook,Sports,Australia,Urban,Marketer Manager,13243,1,1,1,normic
+22,female,2,Instagram,Sports,Australia,Rural,Marketer Manager,10648,1,1,1,normic
+52,male,3,Instagram,Lifestlye,United States,Urban,Software Engineer,15095,1,0,0,normic
+40,female,7,Instagram,Travel,United States,Urban,Software Engineer,16614,0,0,1,normic
+46,male,8,YouTube,Sports,United Kingdom,Rural,Student,17135,0,0,1,normic
+60,non-binary,6,Instagram,Travel,United States,Rural,Software Engineer,11009,1,0,0,loser
+28,non-binary,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,11550,1,0,1,normic
+35,male,1,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,18995,0,0,1,normic
+64,non-binary,8,YouTube,Sports,United States,Urban,Marketer Manager,17492,1,1,1,normic
+29,female,3,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,13401,0,1,1,normic
+26,male,6,YouTube,Travel,United Kingdom,Sub_Urban,Student,17447,1,1,0,normic
+27,non-binary,3,Facebook,Sports,United States,Rural,Student,15424,1,1,1,normic
+61,male,7,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,14241,1,0,0,loser
+34,female,7,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,13161,0,1,1,normic
+55,female,9,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,14155,0,1,1,normic
+24,non-binary,5,Instagram,Sports,Australia,Urban,Student,17478,1,0,0,normic
+63,female,8,YouTube,Lifestlye,Australia,Rural,Marketer Manager,18719,0,1,1,chad
+30,male,8,Instagram,Travel,United States,Urban,Software Engineer,19215,0,0,0,normic
+57,female,1,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,16617,0,0,0,normic
+59,male,5,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,15660,0,0,0,normic
+26,male,3,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,18624,1,0,1,normic
+44,female,1,Instagram,Travel,United States,Rural,Software Engineer,11176,0,0,1,normic
+19,non-binary,4,Facebook,Sports,Australia,Rural,Software Engineer,17956,0,1,1,chad
+22,female,8,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,18592,1,1,1,normic
+46,male,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,12233,0,1,0,normic
+54,male,2,Instagram,Lifestlye,United States,Rural,Software Engineer,14700,0,0,1,normic
+55,female,9,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15906,0,1,1,chad
+36,non-binary,5,YouTube,Sports,Australia,Sub_Urban,Student,17860,1,1,0,normic
+25,non-binary,7,Instagram,Travel,Australia,Urban,Software Engineer,17526,1,1,0,normic
+62,male,2,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,15559,0,1,1,chad
+18,male,9,Facebook,Sports,United States,Rural,Student,16732,0,0,0,normic
+39,non-binary,9,YouTube,Travel,Australia,Sub_Urban,Student,12513,1,1,0,normic
+34,female,4,YouTube,Lifestlye,United Kingdom,Urban,Student,17830,1,0,0,normic
+24,male,4,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,19965,1,0,0,normic
+42,male,6,Instagram,Travel,United Kingdom,Rural,Software Engineer,16944,0,1,0,normic
+62,non-binary,6,YouTube,Travel,Australia,Sub_Urban,Software Engineer,17910,0,0,1,normic
+21,female,1,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15649,1,0,1,normic
+53,non-binary,9,Instagram,Sports,Australia,Rural,Software Engineer,11096,0,0,1,normic
+23,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,19120,0,0,1,normic
+48,female,5,YouTube,Sports,Australia,Rural,Software Engineer,11951,0,0,1,normic
+36,female,9,Instagram,Sports,Australia,Rural,Student,19746,0,0,1,normic
+61,male,4,YouTube,Sports,Australia,Urban,Software Engineer,19186,0,0,1,normic
+56,non-binary,3,Instagram,Travel,Australia,Urban,Marketer Manager,17799,0,1,0,normic
+44,non-binary,7,Facebook,Travel,Australia,Urban,Marketer Manager,18804,0,1,1,chad
+27,female,6,Instagram,Sports,United Kingdom,Urban,Student,10595,1,0,1,normic
+43,male,8,Instagram,Sports,Australia,Rural,Marketer Manager,17875,1,0,1,normic
+36,male,3,YouTube,Travel,United States,Sub_Urban,Software Engineer,19033,1,1,0,normic
+56,non-binary,5,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,14439,1,1,1,normic
+20,male,4,Instagram,Sports,Australia,Rural,Student,15972,1,1,1,normic
+62,male,4,Facebook,Lifestlye,United States,Rural,Marketer Manager,10858,1,1,0,normic
+30,female,4,Instagram,Travel,Australia,Sub_Urban,Student,15519,1,0,1,normic
+45,male,8,Instagram,Sports,United States,Urban,Software Engineer,17385,1,0,1,normic
+37,female,6,Facebook,Lifestlye,United States,Rural,Student,18636,1,1,0,normic
+45,non-binary,3,YouTube,Lifestlye,United States,Rural,Marketer Manager,19980,0,1,1,chad
+25,male,5,Instagram,Lifestlye,United States,Urban,Student,14317,0,1,0,normic
+58,non-binary,6,YouTube,Travel,United Kingdom,Rural,Marketer Manager,13454,1,1,1,normic
+56,non-binary,5,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,11030,0,0,1,normic
+18,male,6,Facebook,Lifestlye,United States,Rural,Software Engineer,19487,0,1,1,chad
+20,male,8,Facebook,Lifestlye,Australia,Rural,Software Engineer,17906,1,1,0,normic
+30,non-binary,7,YouTube,Travel,United States,Urban,Software Engineer,11447,1,1,0,normic
+45,male,5,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,12850,1,0,0,loser
+42,female,6,YouTube,Lifestlye,Australia,Rural,Student,18106,0,0,1,normic
+50,female,4,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,17151,0,0,1,normic
+55,male,9,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,19503,1,1,0,normic
+23,non-binary,4,Facebook,Lifestlye,Australia,Urban,Software Engineer,16952,0,1,0,normic
+61,male,1,Instagram,Lifestlye,United States,Sub_Urban,Student,14055,0,1,1,normic
+62,male,7,Instagram,Travel,United States,Rural,Software Engineer,15402,0,0,1,normic
+49,non-binary,7,YouTube,Lifestlye,United States,Urban,Software Engineer,19281,1,0,1,normic
+62,non-binary,4,Facebook,Travel,United States,Urban,Software Engineer,11672,0,1,1,normic
+64,female,3,Instagram,Travel,Australia,Rural,Student,14532,0,1,0,normic
+38,non-binary,8,Instagram,Sports,Australia,Rural,Marketer Manager,14924,0,0,1,normic
+33,female,5,Facebook,Sports,Australia,Urban,Software Engineer,16085,0,1,1,chad
+38,non-binary,7,YouTube,Lifestlye,United Kingdom,Rural,Student,17734,0,1,1,chad
+28,male,4,Facebook,Travel,Australia,Urban,Software Engineer,14864,0,1,1,normic
+54,female,4,Facebook,Sports,United States,Rural,Student,19316,0,0,1,normic
+53,female,8,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,11221,1,1,1,normic
+52,female,8,Instagram,Sports,United States,Sub_Urban,Student,12860,1,1,1,normic
+36,male,2,YouTube,Sports,United States,Rural,Software Engineer,18428,0,1,0,normic
+37,male,2,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,19336,1,1,0,normic
+35,male,3,Instagram,Travel,Australia,Rural,Software Engineer,13253,0,0,0,normic
+64,male,3,Facebook,Sports,United States,Urban,Student,13782,0,0,1,normic
+58,male,1,Instagram,Sports,United States,Urban,Software Engineer,16957,0,0,0,normic
+31,female,3,YouTube,Travel,United Kingdom,Rural,Marketer Manager,10766,1,1,1,normic
+32,male,6,Facebook,Lifestlye,Australia,Rural,Software Engineer,12681,0,0,1,normic
+48,female,8,YouTube,Travel,United Kingdom,Urban,Student,17710,0,1,1,chad
+18,male,6,Facebook,Sports,United Kingdom,Rural,Student,17482,1,0,1,normic
+20,non-binary,5,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,15086,1,1,0,normic
+33,female,4,Facebook,Sports,United States,Sub_Urban,Student,17964,0,0,1,normic
+40,non-binary,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12665,1,0,1,normic
+28,female,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,19951,1,0,0,normic
+29,non-binary,7,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,13513,0,1,0,normic
+27,male,1,YouTube,Lifestlye,Australia,Rural,Student,10495,0,1,0,normic
+49,male,7,YouTube,Sports,Australia,Rural,Software Engineer,15822,0,1,1,chad
+33,male,1,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12072,1,0,0,loser
+25,female,2,Instagram,Travel,United States,Rural,Software Engineer,17795,1,1,1,normic
+55,non-binary,4,Instagram,Sports,Australia,Rural,Marketer Manager,18529,1,1,1,normic
+29,male,1,Facebook,Travel,United Kingdom,Sub_Urban,Student,13949,0,1,0,normic
+41,non-binary,9,Facebook,Sports,United Kingdom,Rural,Student,16033,1,1,0,normic
+45,non-binary,6,Facebook,Lifestlye,United States,Rural,Student,18328,1,1,0,normic
+25,male,1,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,12555,0,1,1,normic
+45,male,1,YouTube,Lifestlye,Australia,Sub_Urban,Student,16370,0,0,1,normic
+53,non-binary,6,Instagram,Sports,United States,Rural,Marketer Manager,14415,0,0,1,normic
+43,male,4,Facebook,Travel,Australia,Urban,Marketer Manager,15959,1,1,1,normic
+25,male,4,Facebook,Travel,Australia,Urban,Student,19107,0,0,1,normic
+45,male,6,Instagram,Sports,Australia,Sub_Urban,Software Engineer,15993,1,0,1,normic
+45,female,7,Instagram,Sports,United Kingdom,Urban,Software Engineer,15021,1,1,0,normic
+54,non-binary,9,Facebook,Travel,United Kingdom,Sub_Urban,Student,12907,0,1,1,normic
+58,non-binary,5,Facebook,Travel,Australia,Urban,Student,12914,0,0,0,normic
+53,female,9,Facebook,Travel,Australia,Urban,Marketer Manager,13870,0,1,0,normic
+44,non-binary,4,Instagram,Travel,United States,Urban,Student,19190,0,0,0,normic
+34,male,2,Facebook,Sports,United States,Sub_Urban,Marketer Manager,15085,0,0,0,normic
+26,non-binary,3,Facebook,Sports,United Kingdom,Sub_Urban,Student,16546,1,0,0,normic
+50,male,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,10395,1,1,1,normic
+37,female,6,Instagram,Travel,United States,Sub_Urban,Software Engineer,10938,1,0,1,normic
+30,male,6,YouTube,Lifestlye,Australia,Urban,Student,19828,0,1,1,chad
+45,non-binary,1,YouTube,Sports,United Kingdom,Urban,Marketer Manager,12510,1,1,1,normic
+46,non-binary,3,Facebook,Sports,Australia,Sub_Urban,Software Engineer,14636,0,1,0,normic
+30,non-binary,5,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11649,0,1,0,normic
+63,female,3,Facebook,Travel,United Kingdom,Sub_Urban,Student,13690,1,1,0,normic
+52,female,3,Instagram,Travel,United Kingdom,Rural,Student,13435,1,0,1,normic
+23,non-binary,3,YouTube,Travel,United States,Urban,Software Engineer,13201,0,1,1,normic
+35,male,5,Instagram,Travel,United Kingdom,Rural,Student,14179,1,1,1,normic
+22,female,5,Facebook,Lifestlye,United States,Rural,Software Engineer,18405,0,1,1,chad
+64,non-binary,4,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,13237,1,1,0,normic
+42,non-binary,1,Facebook,Sports,United States,Urban,Software Engineer,13862,1,1,0,normic
+19,female,5,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,10058,1,0,1,normic
+27,female,5,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,14938,1,1,1,normic
+47,female,4,YouTube,Travel,Australia,Rural,Software Engineer,12971,1,1,0,normic
+62,male,6,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,19719,0,0,0,normic
+22,male,4,Facebook,Travel,United Kingdom,Sub_Urban,Student,18314,1,1,0,normic
+50,non-binary,7,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,19628,1,0,0,normic
+18,female,7,Facebook,Travel,Australia,Urban,Software Engineer,19354,1,0,1,normic
+35,male,2,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,13345,0,0,0,normic
+49,female,3,Facebook,Sports,United States,Urban,Marketer Manager,12486,0,0,0,normic
+64,non-binary,1,YouTube,Travel,United States,Sub_Urban,Software Engineer,10561,0,1,0,normic
+28,male,8,YouTube,Travel,United States,Urban,Student,13981,0,1,0,normic
+38,male,9,Facebook,Sports,Australia,Urban,Marketer Manager,16261,0,0,1,normic
+43,male,4,Instagram,Lifestlye,Australia,Urban,Software Engineer,11737,1,0,1,normic
+42,non-binary,6,Facebook,Lifestlye,Australia,Urban,Marketer Manager,19096,1,1,1,normic
+39,female,9,Instagram,Travel,United States,Sub_Urban,Student,13554,1,0,1,normic
+44,male,6,Facebook,Lifestlye,United Kingdom,Rural,Student,19918,0,0,1,normic
+30,non-binary,9,YouTube,Travel,Australia,Urban,Student,19126,0,0,1,normic
+50,female,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,17095,1,1,0,normic
+51,non-binary,8,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,18266,0,0,0,normic
+58,female,9,Instagram,Travel,United Kingdom,Urban,Student,10294,0,1,0,normic
+52,non-binary,4,YouTube,Sports,United States,Rural,Software Engineer,18212,0,1,0,normic
+18,female,5,Facebook,Sports,United Kingdom,Urban,Student,19230,1,1,1,normic
+38,male,8,YouTube,Travel,Australia,Sub_Urban,Software Engineer,15330,1,0,0,normic
+23,female,6,Instagram,Travel,United States,Rural,Student,14655,0,0,1,normic
+45,non-binary,7,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,11109,0,1,0,normic
+34,non-binary,3,YouTube,Lifestlye,Australia,Urban,Student,13771,0,1,0,normic
+22,female,7,Instagram,Lifestlye,United States,Rural,Student,18563,0,1,0,normic
+48,male,8,Instagram,Travel,Australia,Sub_Urban,Software Engineer,16123,1,0,1,normic
+22,male,6,YouTube,Travel,Australia,Sub_Urban,Software Engineer,17647,0,0,0,normic
+55,female,9,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,11174,1,1,1,normic
+20,female,6,YouTube,Sports,Australia,Urban,Software Engineer,11164,1,1,1,normic
+40,non-binary,9,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,19284,1,0,0,normic
+54,male,4,YouTube,Lifestlye,Australia,Urban,Software Engineer,19475,0,1,1,chad
+54,female,8,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,19037,1,0,1,normic
+27,male,4,YouTube,Lifestlye,Australia,Urban,Student,18712,1,0,0,normic
+27,female,2,Instagram,Travel,United States,Rural,Student,14466,0,1,0,normic
+36,female,9,Instagram,Travel,United States,Urban,Student,15538,0,1,0,normic
+34,male,5,Facebook,Sports,Australia,Urban,Marketer Manager,17111,0,0,0,normic
+38,female,4,YouTube,Sports,United States,Urban,Student,18434,1,0,0,normic
+31,female,2,YouTube,Sports,Australia,Urban,Marketer Manager,12800,0,0,0,normic
+26,non-binary,1,Instagram,Sports,United States,Sub_Urban,Marketer Manager,14607,1,0,1,normic
+63,female,7,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,17262,1,0,0,normic
+18,female,6,Instagram,Travel,Australia,Sub_Urban,Student,11541,0,1,0,normic
+62,female,2,Facebook,Travel,United Kingdom,Urban,Marketer Manager,12765,1,0,1,normic
+30,non-binary,8,Facebook,Sports,United Kingdom,Rural,Student,14491,1,0,0,normic
+21,male,4,Instagram,Sports,Australia,Sub_Urban,Student,13083,1,0,1,normic
+18,non-binary,8,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,15356,1,1,0,normic
+57,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,11857,0,1,0,normic
+49,male,5,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,10769,1,0,1,normic
+51,non-binary,8,Facebook,Travel,Australia,Rural,Marketer Manager,11422,0,0,0,normic
+45,male,9,Instagram,Travel,Australia,Urban,Student,18598,1,1,1,normic
+48,non-binary,5,YouTube,Travel,United States,Sub_Urban,Marketer Manager,12972,1,1,0,normic
+25,male,5,Instagram,Sports,Australia,Rural,Marketer Manager,11872,0,1,0,normic
+56,female,2,Facebook,Travel,Australia,Sub_Urban,Student,15599,1,1,1,normic
+43,non-binary,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,12269,1,0,0,loser
+51,non-binary,3,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,15275,1,1,0,normic
+20,non-binary,7,Facebook,Sports,United States,Rural,Student,14749,1,0,1,normic
+29,non-binary,5,Instagram,Lifestlye,United Kingdom,Urban,Student,16571,1,0,0,normic
+18,female,8,Instagram,Sports,United Kingdom,Rural,Software Engineer,19373,1,1,1,normic
+61,non-binary,1,YouTube,Travel,United States,Urban,Student,15072,0,1,0,normic
+22,female,3,Facebook,Travel,United Kingdom,Urban,Software Engineer,19631,0,1,1,chad
+47,female,3,YouTube,Travel,United Kingdom,Urban,Marketer Manager,15463,0,1,0,normic
+47,female,9,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,17450,1,0,1,normic
+34,female,5,Instagram,Sports,United Kingdom,Rural,Student,18420,1,0,1,normic
+64,male,9,Facebook,Travel,United States,Rural,Student,13959,1,0,0,normic
+40,male,9,Instagram,Sports,United States,Rural,Marketer Manager,11313,0,1,0,normic
+32,non-binary,1,Facebook,Travel,United Kingdom,Urban,Software Engineer,17847,1,0,1,normic
+54,male,2,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11070,0,1,0,normic
+38,male,5,Instagram,Lifestlye,United States,Urban,Marketer Manager,19166,1,0,1,normic
+31,non-binary,4,YouTube,Sports,United States,Rural,Student,19930,1,1,0,normic
+19,non-binary,9,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,13285,1,0,0,loser
+28,non-binary,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18949,0,0,1,normic
+56,male,6,Instagram,Sports,United Kingdom,Sub_Urban,Student,13095,1,1,1,normic
+55,male,7,YouTube,Travel,Australia,Rural,Marketer Manager,10320,0,0,0,normic
+51,non-binary,1,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,12321,1,0,0,loser
+55,female,1,YouTube,Sports,United Kingdom,Sub_Urban,Student,10555,1,1,0,normic
+51,non-binary,8,YouTube,Lifestlye,United States,Urban,Student,14939,0,1,0,normic
+35,female,2,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,15432,1,1,0,normic
+47,female,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11386,1,1,1,normic
+32,non-binary,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Student,14763,1,1,0,normic
+44,non-binary,6,Facebook,Sports,Australia,Urban,Student,16854,1,0,0,normic
+51,non-binary,1,Facebook,Sports,Australia,Urban,Software Engineer,17637,0,1,1,chad
+55,male,1,Instagram,Sports,United States,Urban,Software Engineer,14841,0,0,1,normic
+50,female,2,YouTube,Lifestlye,United Kingdom,Rural,Student,13867,1,0,1,normic
+41,male,6,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,13793,1,1,0,normic
+32,male,6,Instagram,Lifestlye,United States,Urban,Student,17373,0,0,1,normic
+47,non-binary,2,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,12513,1,0,1,normic
+59,male,1,Facebook,Lifestlye,United States,Urban,Software Engineer,13803,0,1,1,normic
+34,non-binary,5,Facebook,Travel,United Kingdom,Rural,Marketer Manager,12327,1,0,1,normic
+22,female,5,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,18809,0,1,0,normic
+46,non-binary,2,Facebook,Travel,United Kingdom,Rural,Marketer Manager,12165,0,1,0,normic
+21,male,6,Instagram,Lifestlye,United States,Sub_Urban,Student,13308,0,1,0,normic
+27,male,9,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16452,0,0,1,normic
+34,non-binary,2,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,18067,1,0,1,normic
+27,non-binary,2,Facebook,Travel,United Kingdom,Sub_Urban,Marketer Manager,17642,1,0,1,normic
+34,male,3,Instagram,Travel,United States,Sub_Urban,Student,16404,0,0,1,normic
+37,female,7,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,10992,0,1,1,normic
+41,female,6,Facebook,Travel,United Kingdom,Rural,Marketer Manager,15424,0,0,1,normic
+22,non-binary,8,YouTube,Travel,Australia,Rural,Software Engineer,19569,0,1,0,normic
+51,female,8,Facebook,Sports,United Kingdom,Sub_Urban,Student,14381,1,0,0,normic
+23,male,6,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,13174,0,0,1,normic
+19,non-binary,3,Instagram,Lifestlye,United States,Rural,Software Engineer,14782,0,0,0,normic
+30,male,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,19497,0,0,1,normic
+60,male,1,Instagram,Travel,United Kingdom,Sub_Urban,Student,15560,0,0,1,normic
+60,female,7,Facebook,Lifestlye,United States,Sub_Urban,Student,17460,0,1,0,normic
+28,non-binary,5,Instagram,Lifestlye,Australia,Urban,Student,13078,0,0,1,normic
+64,non-binary,4,Facebook,Sports,United States,Sub_Urban,Student,12983,0,0,0,normic
+40,female,4,Facebook,Sports,United States,Urban,Student,17259,1,0,1,normic
+33,male,4,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,16054,0,0,1,normic
+48,male,6,Facebook,Travel,United States,Rural,Marketer Manager,12523,0,1,0,normic
+28,male,8,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,19677,0,0,1,normic
+33,male,8,Facebook,Sports,United Kingdom,Urban,Marketer Manager,14581,1,1,1,normic
+25,non-binary,5,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,15609,1,0,1,normic
+21,non-binary,6,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12001,1,1,0,normic
+57,female,4,Facebook,Lifestlye,United Kingdom,Urban,Student,11387,0,1,1,normic
+21,female,9,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,16552,0,1,1,chad
+42,non-binary,8,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,11030,0,1,1,normic
+20,non-binary,1,Facebook,Travel,United Kingdom,Sub_Urban,Student,19957,1,1,0,normic
+49,male,2,YouTube,Travel,United Kingdom,Rural,Marketer Manager,11220,0,0,0,normic
+20,male,9,Facebook,Sports,United Kingdom,Rural,Marketer Manager,16035,1,1,0,normic
+44,female,8,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,19810,1,0,0,normic
+46,non-binary,3,Instagram,Sports,United Kingdom,Rural,Software Engineer,19455,1,1,0,normic
+49,female,8,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16523,1,1,1,normic
+36,non-binary,1,YouTube,Lifestlye,Australia,Urban,Student,18074,1,0,0,normic
+38,male,4,Instagram,Lifestlye,United States,Sub_Urban,Student,19063,0,1,0,normic
+22,female,3,Instagram,Travel,United States,Urban,Marketer Manager,10834,0,1,1,normic
+35,female,6,YouTube,Travel,United States,Urban,Marketer Manager,19110,1,1,0,normic
+45,non-binary,7,Instagram,Lifestlye,United States,Rural,Marketer Manager,11724,0,1,1,normic
+59,male,4,Facebook,Sports,United Kingdom,Rural,Student,16598,0,0,0,normic
+39,female,7,YouTube,Lifestlye,United Kingdom,Rural,Student,12413,1,1,1,normic
+38,male,9,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,19505,1,1,1,normic
+23,female,2,Facebook,Sports,Australia,Rural,Software Engineer,15993,0,0,0,normic
+18,male,3,Instagram,Lifestlye,United States,Urban,Software Engineer,14498,0,0,0,normic
+22,non-binary,5,YouTube,Sports,Australia,Rural,Student,12105,0,1,1,normic
+58,female,3,YouTube,Travel,Australia,Rural,Software Engineer,12568,0,1,1,normic
+29,female,8,Facebook,Travel,United States,Sub_Urban,Marketer Manager,19330,1,0,1,normic
+43,male,8,Facebook,Sports,United States,Sub_Urban,Marketer Manager,10209,0,1,1,normic
+63,male,8,Instagram,Travel,Australia,Urban,Student,19256,1,0,1,normic
+51,female,9,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,14911,1,1,1,normic
+31,non-binary,4,Instagram,Sports,Australia,Rural,Marketer Manager,12220,0,0,1,normic
+43,male,5,Instagram,Travel,Australia,Sub_Urban,Student,10233,0,0,0,normic
+62,male,5,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,10792,0,0,1,normic
+44,male,8,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,13110,1,1,0,normic
+26,female,7,YouTube,Sports,United States,Urban,Software Engineer,12166,1,1,0,normic
+43,female,9,YouTube,Travel,United States,Sub_Urban,Student,18526,1,1,1,normic
+64,female,8,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19551,1,1,1,normic
+39,female,2,Facebook,Lifestlye,United Kingdom,Urban,Student,15193,0,0,0,normic
+64,non-binary,4,Facebook,Travel,United States,Rural,Software Engineer,11214,1,0,1,normic
+47,non-binary,6,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,14419,1,0,1,normic
+60,female,2,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,17314,0,1,0,normic
+34,non-binary,7,YouTube,Lifestlye,Australia,Rural,Student,18475,1,1,0,normic
+43,male,3,Instagram,Sports,United States,Sub_Urban,Student,10212,1,1,0,normic
+53,male,3,YouTube,Sports,United States,Urban,Software Engineer,11658,0,0,1,normic
+18,male,2,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,15024,1,1,1,normic
+25,female,8,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,19609,1,1,0,normic
+52,male,6,Instagram,Lifestlye,United Kingdom,Rural,Student,15917,1,0,1,normic
+32,non-binary,1,YouTube,Lifestlye,United States,Urban,Student,15141,1,0,0,normic
+64,female,1,YouTube,Sports,United States,Rural,Software Engineer,11794,0,1,1,normic
+39,non-binary,7,Instagram,Sports,Australia,Sub_Urban,Software Engineer,15988,1,0,0,normic
+31,male,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,18296,0,1,1,chad
+43,male,5,Facebook,Travel,Australia,Rural,Marketer Manager,15578,1,0,0,normic
+45,male,5,YouTube,Travel,United Kingdom,Rural,Software Engineer,15551,0,0,1,normic
+40,female,4,Instagram,Lifestlye,Australia,Rural,Student,13845,0,0,1,normic
+31,non-binary,6,Facebook,Sports,Australia,Urban,Marketer Manager,16906,0,1,0,normic
+41,female,6,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,10378,1,1,1,normic
+19,female,3,YouTube,Sports,United States,Rural,Software Engineer,13293,1,1,1,normic
+62,male,9,Facebook,Lifestlye,Australia,Sub_Urban,Student,13329,1,0,0,normic
+43,female,7,Instagram,Travel,Australia,Urban,Software Engineer,14808,0,0,1,normic
+31,female,1,YouTube,Travel,United States,Urban,Software Engineer,17937,1,0,1,normic
+24,male,7,YouTube,Travel,Australia,Urban,Marketer Manager,10224,1,0,1,normic
+20,female,5,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,10737,1,1,0,normic
+64,male,5,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,10235,1,1,0,normic
+40,male,2,Facebook,Sports,United Kingdom,Urban,Marketer Manager,10711,0,1,0,normic
+63,male,4,Facebook,Travel,Australia,Urban,Student,15988,0,0,0,normic
+60,male,6,Instagram,Travel,United States,Rural,Student,11888,1,0,0,normic
+64,female,7,Facebook,Travel,Australia,Urban,Marketer Manager,17173,1,1,1,normic
+62,male,5,Instagram,Travel,Australia,Rural,Marketer Manager,11259,1,0,1,normic
+35,male,9,Instagram,Sports,United States,Urban,Student,15246,0,1,0,normic
+55,female,3,Facebook,Lifestlye,United States,Urban,Student,17271,1,0,1,normic
+52,female,1,Instagram,Lifestlye,United States,Rural,Student,10748,0,0,1,normic
+32,non-binary,4,Facebook,Lifestlye,United Kingdom,Urban,Student,13551,0,1,1,normic
+42,female,9,YouTube,Lifestlye,Australia,Sub_Urban,Student,16400,1,1,1,normic
+54,female,4,YouTube,Travel,United States,Sub_Urban,Marketer Manager,16643,1,0,0,normic
+45,non-binary,2,Instagram,Travel,Australia,Urban,Software Engineer,18701,1,1,0,normic
+27,female,5,Facebook,Travel,United Kingdom,Sub_Urban,Student,11823,0,1,1,normic
+56,female,3,Facebook,Lifestlye,United Kingdom,Rural,Student,16852,0,0,1,normic
+34,female,9,YouTube,Travel,United States,Urban,Software Engineer,17777,1,0,0,normic
+56,female,4,YouTube,Travel,United States,Urban,Software Engineer,14232,0,0,1,normic
+39,non-binary,6,Facebook,Sports,Australia,Rural,Software Engineer,16519,1,1,1,normic
+43,female,2,Instagram,Sports,United States,Rural,Software Engineer,11777,1,0,1,normic
+61,female,6,YouTube,Travel,Australia,Rural,Software Engineer,11222,0,0,0,normic
+42,non-binary,3,Instagram,Sports,United States,Urban,Software Engineer,17630,0,0,0,normic
+34,male,9,Instagram,Sports,Australia,Rural,Marketer Manager,11777,0,0,1,normic
+30,non-binary,2,YouTube,Travel,Australia,Rural,Software Engineer,19496,0,0,1,normic
+37,male,9,Instagram,Travel,Australia,Sub_Urban,Software Engineer,17490,1,1,1,normic
+42,non-binary,5,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,14859,1,0,1,normic
+21,non-binary,8,Facebook,Travel,United Kingdom,Urban,Software Engineer,18893,1,0,1,normic
+27,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Student,18118,0,1,1,chad
+20,male,6,Facebook,Lifestlye,United States,Sub_Urban,Student,12989,1,0,0,normic
+58,female,3,YouTube,Travel,United Kingdom,Rural,Software Engineer,18343,0,0,0,normic
+62,male,5,YouTube,Sports,United Kingdom,Rural,Marketer Manager,11325,0,1,1,normic
+35,non-binary,8,Facebook,Travel,Australia,Sub_Urban,Student,19493,0,0,0,normic
+64,non-binary,1,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,19903,1,1,1,normic
+53,male,5,Instagram,Sports,Australia,Sub_Urban,Student,15127,0,0,1,normic
+64,female,3,Instagram,Lifestlye,United States,Urban,Software Engineer,18998,0,1,0,normic
+39,female,4,Instagram,Travel,Australia,Urban,Marketer Manager,12722,0,1,0,normic
+51,female,2,YouTube,Travel,United Kingdom,Urban,Marketer Manager,14656,0,0,1,normic
+64,female,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11325,0,1,1,normic
+25,non-binary,3,YouTube,Lifestlye,Australia,Sub_Urban,Student,14133,0,1,0,normic
+57,non-binary,2,Instagram,Sports,United States,Urban,Student,19351,0,0,0,normic
+61,non-binary,9,Facebook,Lifestlye,United States,Urban,Student,12869,0,0,1,normic
+36,non-binary,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,11242,0,1,1,normic
+59,non-binary,6,YouTube,Lifestlye,United States,Rural,Student,18539,0,0,1,normic
+58,female,1,Instagram,Sports,United Kingdom,Urban,Software Engineer,11831,0,1,0,normic
+54,female,5,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,11569,0,1,1,normic
+23,female,3,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,17246,1,0,0,normic
+43,female,1,Facebook,Sports,United States,Rural,Software Engineer,11918,1,0,1,normic
+51,non-binary,4,Facebook,Lifestlye,Australia,Sub_Urban,Student,16416,0,1,0,normic
+62,non-binary,2,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,13232,0,0,0,normic
+23,non-binary,2,Facebook,Sports,United States,Urban,Marketer Manager,13758,0,0,0,normic
+54,male,3,Instagram,Travel,Australia,Urban,Marketer Manager,15997,1,1,0,normic
+50,female,8,Instagram,Sports,United States,Rural,Software Engineer,12355,1,1,1,normic
+39,female,8,Instagram,Lifestlye,United States,Rural,Student,19589,1,1,0,normic
+38,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Student,11824,0,1,0,normic
+23,female,6,Facebook,Lifestlye,Australia,Urban,Software Engineer,17280,0,1,0,normic
+23,female,9,Instagram,Sports,United Kingdom,Rural,Software Engineer,14060,0,1,1,normic
+21,non-binary,4,Facebook,Lifestlye,Australia,Rural,Student,15324,0,0,1,normic
+47,male,1,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,10404,1,1,1,normic
+28,male,8,Facebook,Sports,Australia,Sub_Urban,Software Engineer,11721,0,0,1,normic
+47,male,7,Facebook,Travel,United States,Urban,Student,15316,1,0,1,normic
+48,non-binary,7,Instagram,Travel,Australia,Rural,Student,13845,1,1,1,normic
+41,female,3,YouTube,Lifestlye,United States,Urban,Marketer Manager,14210,0,0,0,normic
+26,non-binary,4,Facebook,Sports,United States,Rural,Marketer Manager,10064,1,1,0,normic
+20,non-binary,9,YouTube,Lifestlye,United States,Rural,Marketer Manager,19491,1,0,0,normic
+48,female,6,YouTube,Sports,United Kingdom,Urban,Marketer Manager,16382,1,1,1,normic
+57,male,5,Instagram,Sports,Australia,Urban,Marketer Manager,19607,1,1,0,normic
+54,male,3,Instagram,Travel,United States,Urban,Software Engineer,10968,0,1,0,normic
+53,non-binary,9,Instagram,Travel,United States,Sub_Urban,Student,10368,0,1,1,normic
+41,male,5,Facebook,Sports,United Kingdom,Rural,Software Engineer,18424,1,0,0,normic
+48,non-binary,5,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,12242,0,0,1,normic
+23,non-binary,4,Instagram,Travel,Australia,Urban,Software Engineer,15002,1,0,0,loser
+19,female,4,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,13083,0,0,1,normic
+37,female,1,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,18073,0,0,1,normic
+45,female,7,Instagram,Travel,Australia,Rural,Marketer Manager,19112,0,1,1,chad
+28,non-binary,9,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18880,0,1,0,normic
+21,female,3,Instagram,Travel,Australia,Urban,Student,11469,0,1,0,normic
+32,male,2,Instagram,Travel,Australia,Sub_Urban,Software Engineer,14725,1,1,1,normic
+23,male,3,YouTube,Lifestlye,United States,Rural,Student,14259,0,1,1,normic
+47,non-binary,1,YouTube,Travel,United States,Rural,Marketer Manager,13622,1,0,0,loser
+55,non-binary,6,Instagram,Travel,Australia,Rural,Marketer Manager,10823,1,1,0,normic
+19,female,7,YouTube,Travel,Australia,Rural,Marketer Manager,13431,0,1,1,normic
+32,non-binary,2,Facebook,Lifestlye,Australia,Urban,Software Engineer,16528,1,0,0,normic
+28,non-binary,8,YouTube,Sports,Australia,Sub_Urban,Software Engineer,14151,0,0,0,normic
+25,male,6,YouTube,Lifestlye,Australia,Urban,Marketer Manager,14213,1,1,0,normic
+43,male,4,Instagram,Sports,Australia,Urban,Student,17420,1,1,1,normic
+62,female,5,YouTube,Travel,United Kingdom,Urban,Student,18989,0,0,1,normic
+61,non-binary,8,YouTube,Sports,Australia,Rural,Marketer Manager,10779,0,1,0,normic
+22,non-binary,3,YouTube,Lifestlye,United Kingdom,Rural,Student,12892,0,1,1,normic
+23,male,3,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,15534,0,1,0,normic
+43,non-binary,4,Facebook,Travel,Australia,Sub_Urban,Student,13306,1,0,0,normic
+21,male,1,Instagram,Sports,Australia,Rural,Marketer Manager,12902,0,1,1,normic
+36,female,9,Instagram,Travel,United Kingdom,Sub_Urban,Student,13718,1,1,1,normic
+37,male,8,Facebook,Travel,United Kingdom,Rural,Software Engineer,10021,1,0,1,normic
+50,non-binary,8,YouTube,Lifestlye,Australia,Rural,Marketer Manager,11500,1,0,0,loser
+37,female,6,Facebook,Sports,Australia,Urban,Marketer Manager,19034,1,0,0,normic
+29,male,7,YouTube,Sports,United Kingdom,Urban,Student,19952,1,1,1,normic
+64,male,6,Facebook,Sports,United Kingdom,Urban,Marketer Manager,13641,1,0,1,normic
+18,female,9,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,15212,0,1,1,chad
+43,female,3,Instagram,Travel,United States,Sub_Urban,Marketer Manager,10191,1,0,0,loser
+31,male,3,Instagram,Travel,United Kingdom,Rural,Software Engineer,18587,1,1,0,normic
+55,non-binary,3,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,17174,1,0,0,normic
+54,male,3,YouTube,Travel,Australia,Rural,Student,15114,0,1,1,chad
+28,female,9,Facebook,Travel,Australia,Sub_Urban,Software Engineer,14662,0,1,1,normic
+53,male,4,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,14326,1,0,0,normic
+30,female,7,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,19065,0,0,1,normic
+60,female,9,YouTube,Lifestlye,Australia,Urban,Student,14335,1,1,1,normic
+20,non-binary,7,Facebook,Travel,Australia,Sub_Urban,Software Engineer,18281,0,0,1,normic
+50,female,9,YouTube,Travel,Australia,Urban,Software Engineer,18648,1,1,1,normic
+23,female,3,YouTube,Lifestlye,United States,Urban,Student,19196,0,0,0,normic
+27,non-binary,4,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,15494,0,0,1,normic
+22,female,8,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,18536,0,1,0,normic
+40,non-binary,6,YouTube,Travel,United Kingdom,Rural,Software Engineer,12711,1,0,0,loser
+27,non-binary,5,YouTube,Travel,United Kingdom,Rural,Student,17595,1,0,1,normic
+61,female,4,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,16273,1,1,0,normic
+19,female,8,YouTube,Travel,Australia,Rural,Student,16284,0,1,0,normic
