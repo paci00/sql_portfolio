@@ -1,23 +1,19 @@
-# bikes project
-Relational database consisting of 9 data sets.  
-Analyzing data on a fictional bicycle store :
-
--inspection of data  
--analysis  
--updating the data  
--altering columns  
--creating cte  
--creating new tables  
--creating rankings  
--using aggregate functions  
--self joins, inner joins, left joins  
--concating  
--searching for the median   
--grouping   
--lead and lag  
--transforming date  
+# Average Time Spent By A User On Social Media
+This is dummy data showing how much a user spends time on their devices using Social Media.       
+source: https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media?resource=download   
+   
+The analysis consists of 1 query file. First greened out part is cleaning and updating data itself and it is meant to be a one-time use only.   
+Second part is about creating summaries of the data from different angles.   
+The final results are 3 results tables and cleanned & updated data file itself.
 
 ~300 lines of code
 
-## abbreviated summary of code results  
-![image](https://github.com/paci00/sql_portfolio/assets/153626884/59d496c5-9aac-4146-943c-61789f5ab132)
+
+## Query results:   
+![image](https://github.com/paci00/sql_portfolio/assets/153626884/25263586-583b-4bcc-b59a-84d63457f634)
+
+
+
+# Tableau project dashboard
+https://public.tableau.com/shared/CC623JRH2?:display_count=n&:origin=viz_share_link   
+<img width="679" alt="image" src="https://github.com/paci00/sql_portfolio/assets/153626884/d5126793-d03d-4010-8ca5-cb09a2a30cd3">
