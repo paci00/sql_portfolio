@@ -14,6 +14,6 @@ The final results are 3 results tables and cleanned & updated data file itself.
 
 
 
-# Tableau project dashboard
-https://public.tableau.com/shared/CC623JRH2?:display_count=n&:origin=viz_share_link   
-<img width="679" alt="image" src="https://github.com/paci00/sql_portfolio/assets/153626884/d5126793-d03d-4010-8ca5-cb09a2a30cd3">
+# PowerBI dashboard project    
+![image](https://github.com/paci00/sql_portfolio/assets/153626884/14519fdf-d212-41a2-8048-19006fc16c60)
+
